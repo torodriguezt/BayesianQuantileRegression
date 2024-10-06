@@ -1,4 +1,4 @@
-# BayesianQuantileRegression
+# Regresión Cuantílica Bayesiana
 
 Repositorio con el código del proyecto de tesis de maestría titulado "Modelos de Regresión Cuantílica desde una Perspectiva Bayesiana: Análisis de Sensibilidad y una Aplicación en Datos de Desempeño Estudiantil en las Pruebas Saber." de la estudiante de maestría Daniela Pico Arredondo, con el Profesor Johnatan Cardona Jiménez del Departamento de Estadística de la Universidad Nacional de Colombia, sede Medellín como asesor del trabajo de grado.
 
